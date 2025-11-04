@@ -8,7 +8,6 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zhuozhuoH/count.svg" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=zhuozhuoH.readme" />
     
 </p>
-![](https://visitor-badge.glitch.me/badge?page_id=zhuozhuoH.readme)
