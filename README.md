@@ -9,4 +9,6 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zhuo09s/count.svg" />
+    
 </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Taot-chen&left_color=green&right_color=red)
