@@ -11,4 +11,4 @@
   <img src="https://profile-counter.glitch.me/zhuozhuoH/count.svg" />
     
 </p>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zhuozhuoH&left_color=green&right_color=red)
+![](https://visitor-badge.glitch.me/badge?page_id=zhuozhuoH.readme)
